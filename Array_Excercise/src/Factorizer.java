@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Factorizer {
 
 
+	//comment
 	public int[] factors(int number){
 		int[] factors = new int[number];
 		int factorsFound = 0;
